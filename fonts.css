@@ -82,7 +82,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'small'; src: url('fonts/zh/DroidSansFallback.ttf'); }
 .font-small { font-family: 'small'; font-size: 8px; line-height: 8px;}
 
-@font-face { font-family: 'small_tight'; src: url('fonts/zh/simhei.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('fonts/zh/Hei.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
 @font-face { font-family: 'small_harsh'; src: url('fonts/5mikropix--misaki_gothic.ttf'); }
