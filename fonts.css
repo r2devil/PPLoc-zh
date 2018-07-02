@@ -75,11 +75,11 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'fallback'; src: url('fonts/zh/SourceHanSans-Regular.otf'); }
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('fonts/zh/DroidSansFallback.ttf'); }
+@font-face { font-family: 'tiny'; src: url('fonts/zh/Small.otf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small'; src: url('fonts/zh/Small.otf'); }
+@font-face { font-family: 'small'; src: url('fonts/zh/DroidSansFallback.ttf'); }
 .font-small { font-family: 'small'; font-size: 8px; line-height: 8px;}
 
 @font-face { font-family: 'small_tight'; src: url('fonts/AtariSmall-U--misaki_gothic--88Zen.ttf'); }
