@@ -72,7 +72,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 
 */
 
-@font-face { font-family: 'fallback'; src: url('fonts/fallback.ttf'); }
+@font-face { font-family: 'fallback'; src: url('fonts/zh/SourceHanSans-Regular.otf'); }
 
 /*---- tiny -------------------------------------------------*/
 @font-face { font-family: 'tiny'; src: url('fonts/MiniKylie-U--misaki_gothic.ttf'); }
