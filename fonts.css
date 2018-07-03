@@ -96,7 +96,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src: url('fonts/zh/MiniRound.ttf'); }
+@font-face { font-family: 'title_tall'; src: url('fonts/zh/soft.ttf'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
 @font-face { font-family: 'title_news'; src: url('fonts/zh/TallSquare.ttf'); } 
