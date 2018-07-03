@@ -106,7 +106,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'title_serif';src: url('fonts/zh/STZHONGS.ttf'); font-weight:700; }
 .font-title_serif { font-family:'title_serif'; font-weight:bold; font-size: 10px; line-height: 10px; }
 
-@font-face { font-family: 'title_thick'; src: url('fonts/zh/ThichRound.ttf'); }
+@font-face { font-family: 'title_thick'; src: url('fonts/zh/ThickBold.ttf'); }
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
