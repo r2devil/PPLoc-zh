@@ -110,7 +110,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
-@font-face { font-family: 'ui_regular'; src: url('fonts/NotNokia-U--knj10b.ttf'); }
+@font-face { font-family: 'ui_regular'; src: url('fonts/zh/BoldShort.ttf'); }
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- cursive -------------------------------------------------*/
