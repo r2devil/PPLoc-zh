@@ -103,7 +103,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
 
 /* @font-face { font-family: 'title_serif'; src: local("Times New Roman"); font-weight: bold; } */
-@font-face { font-family: 'title_serif'; src: url('fonts/zh/STZHONGS.ttf'); font-weight:700; }
+@font-face { font-family: 'title_serif'; src: url('fonts/zh/Revolutionary.ttf'); font-weight:700; }
 .font-title_serif { font-family:'title_serif'; font-weight:bold; font-size: 10px; line-height: 10px; }
 
 @font-face { font-family: 'title_thick'; src: url('fonts/zh/ThickGothic.ttf'); }
@@ -118,7 +118,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('fonts/zh/CN_Light.otf'); }
+@font-face { font-family: 'large'; src: url('fonts/zh/ElegentThick.ttf'); }
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /*---- scribble -------------------------------------------------*/
@@ -130,6 +130,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'passport_republia'; src: url('fonts/zh/STHupo.ttf'); }
 @font-face { font-family: 'passport_unitedfed'; src: url('fonts/zh/RegularSquare.otf');}
 @font-face { font-family: 'passport_kolechia'; src: url('fonts/zh/ThickGothic.ttf'); }
+@font-face { font-family: 'Helvetica'; src: url('fonts/zh/CN_Light.otf'); }
 
 /*---- misc -------------------------------------------------*/
 @font-face { font-family: 'press'; src: url('fonts/zh/ThickBold.ttf'); }
