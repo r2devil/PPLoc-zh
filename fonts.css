@@ -129,7 +129,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'passport_arstotzka'; src: url('fonts/zh/Elegent.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('fonts/zh/STHupo.ttf'); }
 @font-face { font-family: 'passport_unitedfed'; src: url('fonts/zh/RegularSquare.otf');}
-@font-face { font-family: 'passport_kolechia'; src: url('fonts/zh/Diamond.ttf'); }
+@font-face { font-family: 'passport_kolechia'; src: url('fonts/zh/ThickGothic.ttf'); }
 
 /*---- misc -------------------------------------------------*/
 @font-face { font-family: 'press'; src: url('fonts/Raleway-Heavy.otf'); }
