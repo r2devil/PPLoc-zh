@@ -92,7 +92,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'regular'; src: url('fonts/zh/SourceHanSans-Regular.otf'); }
 .font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'regular_short'; src: url('fonts/zh/Mini.ttf'); }
+@font-face { font-family: 'regular_short'; src: url('fonts/zh/ThickBold.ttf'); }
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
