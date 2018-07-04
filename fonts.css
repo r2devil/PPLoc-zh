@@ -118,7 +118,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('fonts/Resource-U--knj10.ttf'); }
+@font-face { font-family: 'large'; src: url('fonts/zh/CN_Light.otf.ttf'); }
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /*---- scribble -------------------------------------------------*/
