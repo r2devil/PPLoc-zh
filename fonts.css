@@ -114,7 +114,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- cursive -------------------------------------------------*/
-@font-face { font-family: 'cursive'; src: url('fonts/zh/Lucrative.ttf'); }
+@font-face { font-family: 'cursive'; src: url('fonts/zh/Lively.ttf'); }
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
@@ -133,15 +133,15 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 
 /*---- misc -------------------------------------------------*/
 @font-face { font-family: 'press'; src: url('fonts/zh/ThickBold.ttf'); }
-.font-press { font-family: 'press'; font-size: 20px; line-height: 20px; font-weight: normal; }
+.font-press { font-family: 'press'; font-size: 20px; line-height: 25px; font-weight: normal; }
 
-@font-face { font-family: 'propaganda'; src: url('fonts/zh/ThickRound.ttf'); }
+@font-face { font-family: 'propaganda'; src: url('fonts/zh/Overweight.ttf'); }
 .font-propaganda { font-family: 'propaganda'; font-size: 10px; line-height: 10px; }
 
 @font-face { font-family: 'kid_writing'; src: url('fonts/zh/Maid.ttf'); }
 .font-kid_writing { font-family: 'kid_writing'; font-size: 16px; line-height: 16px; font-weight: bold; }
 
-@font-face { font-family: 'news'; src: url('fonts/PlainBlack--EncientGermanGothic.ttf'); }
+@font-face { font-family: 'news'; src: url('fonts/zh/Revolutionary.ttf'); }
 .font-news { font-family: 'news'; font-size: 23px; line-height: 34px; font-weight: normal; }
 
 body {
