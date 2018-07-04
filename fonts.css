@@ -122,7 +122,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /*---- scribble -------------------------------------------------*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('fonts/zh/Pen.ttf'); }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('fonts/zh/Dump.ttf'); }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport -------------------------------------------------*/
