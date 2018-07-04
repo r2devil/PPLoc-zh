@@ -122,11 +122,11 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /*---- scribble -------------------------------------------------*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('fonts/zh/Loli.ttc'); }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('fonts/zh/Dump.ttf'); }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport -------------------------------------------------*/
-@font-face { font-family: 'passport_arstotzka'; src: url('fonts/v5loxical.ttf'); }
+@font-face { font-family: 'passport_arstotzka'; src: url('fonts/zh/Elegent.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('fonts/Arial-Black.ttf'); }
 @font-face { font-family: 'passport_unitedfed'; src: url('fonts/84-Orange.ttf');}
 @font-face { font-family: 'passport_kolechia'; src: url('fonts/BMgermar.ttf'); }
