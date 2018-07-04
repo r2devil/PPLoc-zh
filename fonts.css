@@ -114,7 +114,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- cursive -------------------------------------------------*/
-@font-face { font-family: 'cursive'; src: url('fonts/Bangalor-U--elisat10.ttf'); }
+@font-face { font-family: 'cursive'; src: url('fonts/zh/Lucrative.ttf'); }
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
