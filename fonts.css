@@ -128,7 +128,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 /*---- passport -------------------------------------------------*/
 @font-face { font-family: 'passport_arstotzka'; src: url('fonts/zh/Elegent.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('fonts/zh/STHupo.ttf'); }
-@font-face { font-family: 'passport_unitedfed'; src: url('fonts/zh/ElegentThick.ttf');}
+@font-face { font-family: 'passport_unitedfed'; src: url('fonts/zh/RegularSquare.otf');}
 @font-face { font-family: 'passport_kolechia'; src: url('fonts/zh/Diamond.ttf'); }
 
 /*---- misc -------------------------------------------------*/
