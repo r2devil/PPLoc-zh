@@ -136,7 +136,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 @font-face { font-family: 'press'; src: url('fonts/zh/ThickBold.ttf'); }
 .font-press { font-family: 'press'; font-size: 20px; line-height: 25px; font-weight: normal; }
 
-@font-face { font-family: 'propaganda'; src: url('fonts/zh/Overweight.ttf'); }
+@font-face { font-family: 'propaganda'; src: url('fonts/zh/Revolutionary.ttf'); }
 .font-propaganda { font-family: 'propaganda'; font-size: 10px; line-height: 10px; }
 
 @font-face { font-family: 'kid_writing'; src: url('fonts/zh/Maid.ttf'); }
